@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yeshwanth
-- 👀 I’m working as intern @Epicor Software
+- 👀 I’m working as SRE @Epicor Software
 - 🌱 I’m currently working in CloudOps automation team
 - 💞️ I’m interested in developing microservices, distributed systems
 - 📫 Reach me @y17yeshwanth@gmail.com
